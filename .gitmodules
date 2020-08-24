@@ -1,0 +1,3 @@
+[submodule "react-canvas-gauges"]
+	path = react-canvas-gauges
+	url = https://github.com/1995parham/react-canvas-gauges.git
